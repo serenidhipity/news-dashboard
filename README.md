@@ -1,4 +1,4 @@
-# Personalized News Dashboard (Brief.AI)
+# Personalized News Dashboard 
 
 A modern, AI-powered news aggregator built with **React** and **FastAPI**. It pulls real-time headlines from major RSS feeds, analyzes their sentiment using NLP, and learns your interests to prioritize your feed.
 

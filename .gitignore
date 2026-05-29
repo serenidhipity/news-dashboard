@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Build
+dist/
+build/
